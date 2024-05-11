@@ -2,7 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 Software Engineer
 -----------------
-Despite having a Sales background, I found out that I had a passion for building tools that would help me perform my job in a more efficient manner and that's where my interest in Software Development was born. I'm a firm believer that helping others is the best way to learn and for the past year and a half I've been a TA helping folks out in a community with ~50k members.* 🌍  I'm based in Asuncion* ✉️  You can contact me at [jmachuca06@gmail.com](mailto:jmachuca06@gmail.com)* 🧠  I'm learning Go and Rust and getting more proficient at Fullstack Web Development.
+Despite having a Sales background, I found out that I had a passion for building tools that would help me perform my job in a more efficient manner and that's where my interest in Software Development was born. I'm a firm believer that helping others is the best way to learn and for the past year and a half I've been a TA helping folks out in a community with ~50k members.
+* 🌍  I'm based in Asuncion
+* ✉️  You can contact me at [jmachuca06@gmail.com](mailto:jmachuca06@gmail.com)
+* 🧠  I'm learning Go and Rust and getting more proficient at Fullstack Web Development.
 
 ### Skills
 

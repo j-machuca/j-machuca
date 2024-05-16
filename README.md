@@ -2,7 +2,10 @@ Hi 👋 My name is Jorge Machuca
 =====================================================================================================================================
 Software Engineer
 -----------------
-Despite having a Sales background, I found out that I had a passion for building tools that would help me perform my job in a more efficient manner and that's where my interest in Software Development was born. I'm a firm believer that helping others is the best way to learn and for the past year and a half I've been a TA helping folks out in a community with ~50k members.
+While working in Sales and Management I found out that I had a passion for building tools that would help me perform my job in a more efficient manner and that's where my interest in Software Development was born. Thanks to a software engineer working at that company that pushed my I started my journey as a self taugh software engineer.  
+
+After 5 years since I started this journey, I had the chance to help others and for the past year and a half I've been a TA helping folks out in a community with ~50k members.
+
 * 🌍  I'm based in Asuncion,Paraguay
 * ✉️  You can contact me at [jmachuca06@gmail.com](mailto:jmachuca06@gmail.com)
 * 🧠  I'm learning Go and Rust and getting more proficient at Fullstack Web Development.

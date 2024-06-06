@@ -2,7 +2,7 @@ Hi 👋 My name is Jorge Machuca
 =====================================================================================================================================
 Software Engineer
 -----------------
-While working in Sales and Management I found out that I had a passion for building tools that would help me perform my job in a more efficient manner and that's where my interest in Software Development was born. Thanks to a software engineer working at that company that gave me the confidence to start my journey as a self taugh software engineer.  
+While working in Sales and Management I found out that I had a passion for building tools that would help me perform my job in a more efficient manner and that's where my interest in Software Development was born. Thanks to a software engineer working at that company that gave me the confidence I decided to start my journey as a self taugh software engineer.  
 
 After 5 years since I started this journey, I had the chance to help others and for the past year and a half I've been a TA helping folks out in a community with ~50k members.
 

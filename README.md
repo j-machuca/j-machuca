@@ -10,7 +10,7 @@ After 5 years since I started this journey, I had the chance to help others and 
 * ✉️  You can contact me at [jmachuca06@gmail.com](mailto:jmachuca06@gmail.com)
 * 🧠  I'm learning Go and Rust and getting more proficient at Fullstack Web Development.
 
-[Links to LinkedIn](https://www.linkedin.com/in/jorge-machuca/)
+
 
 ### Skills
 #### Frontend
